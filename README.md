@@ -1,4 +1,6 @@
-# Smart AI Chatbot (Python)
+```bash
+python chatbot.py
+```# Smart AI Chatbot (Python)
 
 This is a simple rule-based AI chatbot built using Python.
 
@@ -16,3 +18,6 @@ Bot: Hello! How can I help you today?
 
 You: what is python  
 Bot: Python is a powerful programming language used for AI, web, and automation.
+## Author
+
+Created by Ruhwandev
