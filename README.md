@@ -1,2 +1,11 @@
-# smart-ai-chatbot
-A simple Python AI chatbot that responds to user input using rule-based logic.
+# Smart AI Chatbot (Python)
+
+This is a simple rule-based AI chatbot built using Python.
+
+## Features
+- Responds to user input
+- Uses basic AI logic (if/else system)
+- Beginner-friendly structure
+- Easy to modify and extend
+
+## How to run
